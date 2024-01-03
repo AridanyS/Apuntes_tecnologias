@@ -23,5 +23,5 @@ De todos los apuntes, los de Git y GitHub son los que considero más completos y
 Cualquier contribución a estos apuntes es bienvenida. Si tienes sugerencias, correcciones o deseas añadir algo, por favor, no dudes en hacerlo.
 
 
-> [!IMPORTANT]  
+> [!NOTE]  
 > Estos apuntes son de uso libre y están disponibles para todos.
